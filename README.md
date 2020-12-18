@@ -1,1 +1,1 @@
-"Sample Spring REST App" 
+Sample Spring REST App
